@@ -1,4 +1,4 @@
-# 🩺 Skin Cancer AI — Application Web de Diagnostic
+# 🩺 Skin Cancer — Application Web de Diagnostic
 
 Application web développée avec **Flask** et **Deep Learning (VGG16)** permettant aux professionnels de santé de diagnostiquer des lésions cutanées (Bénigne ou Maligne) à partir d'images.
 
