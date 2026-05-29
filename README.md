@@ -17,14 +17,21 @@ Application web développée avec **Flask** et **Deep Learning (VGG16)** permett
 
 ## 🛠️ Technologies utilisées
 
-| Technologie | Rôle |
-|---|---|
-| Python / Flask | Backend web |
-| TensorFlow / Keras | Modèle Deep Learning |
-| VGG16 | Classification d'images |
-| MySQL | Base de données |
-| Bootstrap 5 | Interface utilisateur |
-| XAMPP | Serveur local |
+| Catégorie | Technologie | Rôle |
+|-----------|-------------|------|
+| **Langage** | Python 3.x | Langage principal |
+| **Framework web** | Flask | Serveur web & routing |
+| **Templates** | Jinja2 | Moteur de rendu HTML |
+| **Frontend** | Bootstrap 5 (CDN) | Mise en page & composants UI |
+| **Frontend** | CSS personnalisé | Styles custom (`style.css`) |
+| **Deep Learning** | TensorFlow / Keras | Chargement & inférence du modèle |
+| **Modèle IA** | VGG16 (pré-entraîné) | Classification d'images cutanées |
+| **Traitement image** | NumPy | Prétraitement des images |
+| **Base de données** | MySQL | Stockage users & historique patients |
+| **Connecteur DB** | mysql-connector-python | Interface Python ↔ MySQL |
+| **Serveur local** | XAMPP | Hébergement MySQL en local |
+| **Authentification** | Sessions Flask | Gestion des connexions utilisateur |
+| **Upload fichiers** | Flask (multipart) | Réception des images soumises |
 
 ---
 
