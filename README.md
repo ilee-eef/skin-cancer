@@ -55,6 +55,11 @@ SKIN_CANCER_APP/
 | Mot de passe | **1234** |
 
 ---
+## 🎬 Démonstration
+
+▶️ **Voir la démo en vidéo** : https://drive.google.com/drive/folders/1_eAkSRziBxltB7C7D9u3HW2wcSKSYyWF?usp=sharing
+
+---
 
 ## 👩‍💻 Auteur
 
