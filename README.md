@@ -29,6 +29,8 @@ Application web développée avec **Flask** et **Deep Learning (VGG16)** permett
 ---
 
 ## 📁 Structure du projet
+
+```
 SKIN_CANCER_APP/
 ├── static/
 │   ├── uploads/
@@ -42,6 +44,7 @@ SKIN_CANCER_APP/
 ├── app.py
 ├── .gitignore
 └── README.md
+```
 ---
 
 ## 🔑 Identifiants de connexion
